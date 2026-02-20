@@ -13,6 +13,7 @@ A simple counter application using Django, DaisyUI (Cyberpunk theme), and HTMX.
 ```bash
 mkdir django-counter-app
 cd django-counter-app
+git init .
 ```
 
 ## Step 2: Create Virtual Environment
