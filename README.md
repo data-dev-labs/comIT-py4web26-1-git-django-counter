@@ -21,7 +21,7 @@
 
 Track changes, add files, commit changes, once the app running create a new branch: 
 
-    `git checkout -b my_counter` 
+    git checkout -b my_counter 
      (any other name works too)
      
   6. Edit:
